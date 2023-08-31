@@ -30,6 +30,6 @@ You can try out the unit converter by visiting the [Unit Converter](https://anki
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, feel free to contact me at ankitjha1403@gmail.com
+If you have any questions, suggestions, or feedback, feel free to contact me at ankitjha1403@gmail.com .
 
 
